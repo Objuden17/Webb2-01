@@ -1,0 +1,12 @@
+html{
+    
+}
+body{
+    
+}
+span{
+    background-color: #51B900;
+}
+span:last-of-type {
+    background-color: #FF7F50;
+}
