@@ -1,0 +1,13 @@
+html{
+    
+}
+body{
+    
+}
+.ex1{
+    font-variant-caps:all-petite-caps;
+    font-size: 2.5rem;
+}
+.ex2{
+    font-variant-caps: small-caps;
+}
