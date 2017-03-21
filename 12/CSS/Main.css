@@ -2,5 +2,20 @@ html{
     
 }
 body{
-    
+    background-color: #ECF0F1;
+}
+table{
+    width: 18vw;
+    border-collapse: collapse;
+}
+th{
+    background-color: #2ECC71;
+    color: #FAFEFE;
+    text-align: left;
+}
+tr{
+    background-color: #C8F7C5;
+}
+th, td{
+   border-bottom: 1px solid #2ECC71; 
 }
