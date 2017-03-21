@@ -6,7 +6,9 @@ body{
 }
 ul > li{
     color: #DE8128;
+    list-style-type: square;
 }
 ol{
     color: #8CA692;
+    list-style-type:upper-alpha;
 }

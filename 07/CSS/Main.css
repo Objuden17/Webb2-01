@@ -5,8 +5,8 @@ body{
     
 }
 li:nth-child(odd){
-    list-style-type:decimal-leading-zero;
+    list-style-image: url(../Images/1490107580_tick.png);
 }
 li:nth-child(even){
-    list-style-type: georgian;
+    list-style-image: url(../Images/1490107560_cross.png);
 }

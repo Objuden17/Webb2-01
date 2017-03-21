@@ -7,4 +7,8 @@ body{
 h1:first-letter{
     color: #FF530A;
     font-size: 3rem;
+    font-family: sans-serif;
+}
+h1{
+    color: #6177E1;
 }
