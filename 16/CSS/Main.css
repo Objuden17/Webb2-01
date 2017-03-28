@@ -1,0 +1,15 @@
+html{
+    
+}
+body{
+width: 40vw;
+height: 50vh;
+}
+img{
+    float: right;
+    
+}
+p{
+    border: dotted 2px black;
+    padding: 4px;
+}

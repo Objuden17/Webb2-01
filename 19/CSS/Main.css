@@ -1,0 +1,15 @@
+html{
+    
+}
+body{
+    
+}
+div{
+    background-color:limegreen;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}

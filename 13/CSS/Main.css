@@ -1,0 +1,25 @@
+html{
+    
+}
+body{
+    
+}
+th{
+    
+}
+table{
+    background-color: #6C7A89;
+    color: white;
+}
+td{
+    background-color: white;
+    color: black;
+}
+td:nth-child(odd){
+    background-color: #D2D7D3;
+}
+td, th{
+    padding: 10px;
+}
+
+

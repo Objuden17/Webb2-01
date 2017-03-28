@@ -17,5 +17,6 @@ tr{
     background-color: #C8F7C5;
 }
 th, td{
-   border-bottom: 1px solid #2ECC71; 
+   border-bottom: 1px solid #2ECC71;
+    padding: 5px;
 }
