@@ -1,0 +1,34 @@
+html{
+    
+}
+body{
+    
+}
+.blå{
+    background-color: #22A7F0;
+    height: 100vh;
+    width: 20%;
+}
+.röd{
+    background-color: #C0392B;
+    height: 100vh;
+    width: 20%;
+}
+.grön{
+    background-color: #87D37C;
+    height: 100vh;
+    width: 20%;
+}
+.gul{
+    background-color: #F4D03F;
+    height: 100vh;
+    width: 20%;
+}
+.grå{
+    background-color: #ABB7B7;
+    height: 100vh;
+    width: 20%;
+}
+div{
+    float: left;
+}

@@ -2,5 +2,32 @@ html{
     
 }
 body{
+    height: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+}
+blockquote{
+    background-color: #E4F1FE;
+    border:double #8D9DAC 5px;
+    float: right;
+    height: 260px;
+    padding: 20px;
+    width: 250px;
     
+    
+}
+blockquote p:last-of-type{
+    font-style: italic;
+    float: right;
+    
+}
+blockquote p:last-of-type:before{
+    content: '-';
+}
+blockquote p:first-of-type:before{
+    content: open-quote;
+}
+blockquote p:nth-last-of-type(2):after{
+    content: '"';
 }
