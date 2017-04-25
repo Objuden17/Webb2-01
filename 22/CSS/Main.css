@@ -2,29 +2,29 @@ html{
     
 }
 body{
-    
+    margin: 0;
 }
-.blå{
+.blue{
     background-color: #22A7F0;
     height: 100vh;
     width: 20%;
 }
-.röd{
+.red{
     background-color: #C0392B;
     height: 100vh;
     width: 20%;
 }
-.grön{
+.green{
     background-color: #87D37C;
     height: 100vh;
     width: 20%;
 }
-.gul{
+.yellow{
     background-color: #F4D03F;
     height: 100vh;
     width: 20%;
 }
-.grå{
+.grey{
     background-color: #ABB7B7;
     height: 100vh;
     width: 20%;
